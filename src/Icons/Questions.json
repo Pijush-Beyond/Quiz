@@ -1,0 +1,312 @@
+[
+  {
+    "id":1,
+    "question":"In which year of First World War Germany declared war on Russia and France?",
+    "options":["1914","1915","1916","1917"],
+    "answer":1
+  },
+  {
+    "id":2,
+    "question":"ICAO stands for",
+    "options":["International Civil Aviation Organization","Indian Corporation of Agriculture Organization","Institute of Company of Accounts Organization","None of the above"],
+    "answer":1
+  },
+  {
+    "id":3,
+    "question":"India's first Technicolor film ____ in the early 1950s was produced by ____",
+    "options":[
+      "'Jhansi Ki Rani', Sohrab Modi",
+      "'Jhansi Ki Rani', Sir Syed Ahmed",
+      "'Mirza Ghalib', Sohrab Modi",
+      "'Mirza Ghalib', Munshi Premchand"
+    ],
+    "answer":1
+  },
+  {
+    "id":4,
+    "question":"India has largest deposits of ____ in the world.",
+    "options":[
+      "gold",
+      "copper",
+      "mica",
+      "None of the above"
+    ],
+    "answer":3
+  },
+  {
+    "id":5,
+    "question":"How many Lok Sabha seats belong to Rajasthan?",
+    "options":[
+      "32",
+      "25",
+      "30",
+      "17"
+    ],
+    "answer":3
+  },
+  {
+    "id":6,
+    "question":"India's first satellite is named after",
+    "options":[
+      "Aryabhatta",
+      "Bhaskara II",
+      "Bhaskara I",
+      "Albert Einstein"
+    ],
+    "answer":1
+  },
+  {
+    "id":7,
+    "question":"India's first atomic reactor was",
+    "options":[
+      "Zerlina",
+      "Dhruva",
+      "Apsara",
+      "Kamini"
+    ],
+    "answer":3
+  },
+  {
+    "id":8,
+    "question":"India's first ocean wave's energy project was launched in",
+    "options":[
+      "1981",
+      "1991",
+      "1995",
+      "2000"
+    ],
+    "answer":2
+  },
+  {
+    "id":9,
+    "question":"In which of the following years, the membership of the Security Council was increased from 11 to 15 (under Article 23)?",
+    "options":[
+      "1960",
+      "1965",
+      "1972",
+      "1975"
+    ],
+    "answer":2
+  },
+  {
+    "id":10,
+    "question":"India's tallest stone statue of the Jain sage Gomateswara is at",
+    "options":[
+      "Mysore, Karnakata",
+      "New Delhi",
+      "Sravanabelagola, Karnataka",
+      "Mandu, Madhya Pradesh"
+    ],
+    "answer":3
+  },
+  {
+    "id":11,
+    "question":"In 1945, fifty nations met to phrase the basic charter for a world organization which would 'save succeeding generations from the scourge of war'. This conference took place at",
+    "options":[
+      "Dumbarton Oaks",
+      "London",
+      "San Francisco",
+      "Yalta"
+    ],
+    "answer":3
+  },
+  {
+    "id":12,
+    "question":"In a normal human body, the total number of red blood cells is",
+    "options":[
+      "15 trillion",
+      "20 trillion",
+      "25 trillion",
+      "30 trillion"
+    ],
+    "answer":4
+  },
+  {
+    "id":13,
+    "question":"INS Venduruthy is located at",
+    "options":[
+      "Kochi",
+      "Lonavla",
+      "Jamnagar",
+      "Mumbai"
+    ],
+    "answer":4
+  },
+  {
+    "id":14,
+    "question":"In which season do we need more fat?",
+    "options":[
+      "Rainy season",
+      "Spring",
+      "Winter",
+      "Summer"
+    ],
+    "answer":3
+  },
+  {
+    "id":15,
+    "question":"How much districts are there in Punjab?",
+    "options":[
+      "13",
+      "17",
+      "22",
+      "15"
+    ],
+    "answer":3
+  },
+  {
+    "id":16,
+    "question":"India participated in Olympics Hockey in",
+    "options":[
+      "1918",
+      "1928",
+      "1938",
+      "1948"
+    ],
+    "answer":2
+  },
+  {
+    "id":17,
+    "question":"If force is expressed in Newton and the distance in metre, then the work done is expressed in",
+    "options":[
+      "Joule",
+      "Kg wt",
+      "Kg wt m",
+      "Watt"
+    ],
+    "answer":1
+  },
+  {
+    "id":18,
+    "question":"How many teeth does a normal adult dog have?",
+    "options":[
+      "32",
+      "34",
+      "98",
+      "42"
+    ],
+    "answer":4
+  },
+  {
+    "id":19,
+    "question":"How many red blood cells does the bone marrow produce every second?",
+    "options":[
+      "2 million",
+      "5 million",
+      "7 million",
+      "10 million"
+    ],
+    "answer":1
+  },
+  {
+    "id":20,
+    "question":"How many times has Brazil won the World Cup Football Championship?",
+    "options":[
+      "Four times",
+      "Twice",
+      "Five times",
+      "Once"
+    ],
+    "answer":3
+  },
+  {
+    "id":21,
+    "id":21,
+    "question":"If speed of rotation of the earth increases, weight of the body",
+    "options":[
+      "increases",
+      "remains unchanged",
+      "decreases",
+      "may decrease or increase"
+    ],
+    "answer":3
+  },
+  {
+    "id":22,
+    "question":"In August, 1996 at Kolar(near Bangalore), India made successful test flights of Unmanned Air Vehicle (UAV) named",
+    "options":[
+      "Arjun",
+      "Nishant",
+      "decreases",
+      "Lakshya"
+    ],
+    "answer":2
+  },
+  {
+    "id":23,
+    "question":"IDA stands for",
+    "options":[
+      "Indian Development Agency",
+      "Indian Development Agency",
+      "decIndustrial Development Analysesreases",
+      "None of the above"
+    ],
+    "answer":2
+  },
+  {
+    "id":24,
+    "question":"Indira Gandhi was assassinated in",
+    "options":[
+      "1974",
+      "1984",
+      "1994",
+      "2004"
+    ],
+    "answer":2
+  },
+  {
+    "id":25,
+    "question":"India's first nuclear blast at Pokhran in Rajasthan took place in",
+    "options":[
+      "1984",
+      "1974",
+      "1964",
+      "1954"
+    ],
+    "answer":2
+  },
+  {
+    "id":26,
+    "question":"How many players are there on each side in the game of Basketball?",
+    "options":[
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer":2
+  },
+  {
+    "id":27,
+    "question":"In a normal human being, how much time does food take to reach the end of the intestine for complete absorption?",
+    "options":[
+      "About 8 hours",
+      "About 12 hours",
+      "About 16 hours",
+      "About 18 hours"
+    ],
+    "answer":2
+  },
+  {
+    "id":28,
+    "question":"In certain diseases antibiotics are administered. The object is",
+    "options":[
+      "stimulate production of white blood cells for fighting the disease",
+      "stimulate production of antibodies",
+      "inhibit the growth of bacteria",
+      "produce toxins against bacteria"
+    ],
+    "answer":3
+  },
+  {
+    "id":29,
+    "question":"In cricket, the two sets of wickets are",
+    "options":[
+      "18 yards apart",
+      "20 yards apart",
+      "22 yards apart",
+      "24 yards apart"
+    ],
+    "answer":3
+  }
+]
