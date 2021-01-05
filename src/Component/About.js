@@ -36,7 +36,7 @@ export default function About() {
   const classes = useStyle()
   const quizRunning = useSelector(state => state.result.quizRunning);
   
-  useEffect(()=>document.title="about",[])
+  useEffect(()=>document.title="About",[])
 
   if (quizRunning) return <Redirect to="/quiz/" />
   else return (
