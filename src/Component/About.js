@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useEffect} from 'react';
 
 import profile from "../Icons/profile.jpg";
 
@@ -35,6 +35,8 @@ const useStyle = makeStyles(theme => ({
 export default function About() {
   const classes = useStyle()
   const quizRunning = useSelector(state => state.result.quizRunning);
+  
+  useEffect(()=>document.title="about",[])
 
   if (quizRunning) return <Redirect to="/quiz/" />
   else return (
