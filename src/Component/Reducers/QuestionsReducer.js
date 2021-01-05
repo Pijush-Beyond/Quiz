@@ -3,7 +3,7 @@ import questions from '../../Icons/Questions.json';
 
 // const questions = ;
 // console.log(questions);
-const Total_Questions = 5;
+const Total_Questions = 20;
 export { Total_Questions };
 
 const initialState = ((questions) => {

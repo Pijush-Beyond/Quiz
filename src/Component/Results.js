@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 import { makeStyles, Table, TableBody, TableCell, TableRow, Typography, Box } from '@material-ui/core';
 import { useSelector } from 'react-redux';
@@ -38,7 +38,7 @@ export default function Results() {
     notVisited: Total_Questions - state.result.right - state.result.wrong - state.result.skeeped,
   }));
 
-  // for disable user selection and other features
+  useEffect(() => document.title = "Results", []);
   
 
   if (quizRunning) return <Redirect to="/quiz/" />

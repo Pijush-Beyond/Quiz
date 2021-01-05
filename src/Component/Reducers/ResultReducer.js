@@ -11,7 +11,6 @@ const initialState = (() => {
   if (Storage && localStorage.getItem('result')) {
     const initialState = JSON.parse(localStorage.getItem('result'));
     initialState.endingTime = new Date(initialState.endingTime);
-    // console.log(initialState);
     return initialState;
   }
   else return { justFinished: false, quizRunning: false, currentQuestion: 0, wrong: 0, right: 0, skeeped: 0, resultAvailable: false };
@@ -34,13 +33,11 @@ const reducer = createSlice({
     next: state => {
       state.currentQuestion++;
       if ((state.currentQuestion - 1) === Total_Questions) {
-        console.log("This is in last question submition>>>");
         state.justFinished = true;
         state.quizRunning = false;
         state.resultAvailable = true;
         state.currentQuestion = 0;
         if (Storage) localStorage.setItem('result', JSON.stringify(state));
-        console.log("This is in last question submition>>>last.......",state);
       }
       // return state;
     },

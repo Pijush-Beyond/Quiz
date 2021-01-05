@@ -169,9 +169,9 @@ export default function Quiz() {
   useEffect(() => {
     if (result.answerd) {
       if (result.result)
-        dispatch(wrong());
-      else
         dispatch(right());
+      else
+        dispatch(wrong());
       let JumpNextTimeOut;
       if (!stopCountDown) {
         JumpNextTimeOut = setTimeout(() => {
@@ -214,6 +214,7 @@ export default function Quiz() {
   }, [dispatch])
 
   useEffect(() => {
+    document.title = `Question no ${currentQuestion}`;
     setResult({ result: false, answerd: false, choice: null });
     setAlert(false);
     setCountDown(null);

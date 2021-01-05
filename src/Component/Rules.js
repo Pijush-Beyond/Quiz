@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 import { makeStyles, Typography } from '@material-ui/core';
 import { Redirect } from 'react-router-dom';
@@ -53,6 +53,8 @@ export default function Rules( ) {
     "Onace quiz start timer will go on what ever you do"
   ];
 
+  useEffect(() => document.title = "Rules", []);
+  
   const dispatch = useDispatch();
   if (!userName) {
     dispatch(exit())

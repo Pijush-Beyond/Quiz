@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Box, makeStyles,  TextField, Button, Typography } from '@material-ui/core';
 
 import svg from '../Icons/quiz.svg';
@@ -54,6 +54,7 @@ function Home(props) {
     dispatch(setUserName(state.userName));
     props.history.push('/rules/');
   }
+  useEffect(() => document.title = "Welcome", []);
   
   if (quizRunning) return <Redirect to="/quiz/" />
   else return (
